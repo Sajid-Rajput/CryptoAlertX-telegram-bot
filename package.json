@@ -1,0 +1,24 @@
+{
+  "name": "crypto-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development nodemon index",
+    "development": "cross-env NODE_ENV=development  node index",
+    "production": "cross-env NODE_ENV=production  node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.5",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.5.3",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "npmlog": "^7.0.1"
+  }
+}
