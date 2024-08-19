@@ -2,7 +2,7 @@
 
 🚀 Welcome to **CryptoAlertX** - Your personal assistant for cryptocurrency alerts and live data on Telegram! 🚀
 
-**Telegram Bot Link:** [CryptoAlertX](t.me/SajidCryptoDataBot)
+**Telegram Bot Link:** <a href="https://t.me/SajidCryptoDataBot" target="_blank">CryptoAlertX</a>
 
 ## 📋 Table of Contents
 
